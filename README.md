@@ -8,4 +8,4 @@
 
 ## What I'm Working On
 
-I'm currently getting an [Emacs configuration](https://github.com/qucchia/config) set up and making an [environment](https://github.com/qucchia/qbangle) for the [Bangle.js](banglejs.com/).
+I'm currently getting an [Emacs configuration](https://github.com/qucchia/config) set up and making a [Mafia Discord Bot](https://github.com/qucchia/mafia-bot).
