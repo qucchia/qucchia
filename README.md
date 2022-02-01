@@ -8,4 +8,4 @@
 
 ## What I'm Working On
 
-I'm currently getting an [Emacs configuration](https://github.com/qucchia/config) set up and making a [Mafia Discord Bot](https://github.com/qucchia/mafia-bot).
+I'm currently getting an [Emacs configuration](https://github.com/qucchia/config) set up and making a Mafia Discord Bot (currently a private repo because it contains game-relevant information).
