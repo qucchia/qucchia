@@ -1,0 +1,7 @@
+* Hi, I'm qucchia
+
+I'm a Christian programmer, bookworm and chess enthusiast, free software supporter and fueled by tea. I use Emacs on a daily basis and find programming fascinating.
+
+* What I'm Working On
+
+Currently, my main project is crafting my desktop configuration using Emacs and EXWM, at my [[https://github.com/qucchia/dotfiles][dotfiles repository]]. It's an opportunity to learn Emacs Lisp and more!
